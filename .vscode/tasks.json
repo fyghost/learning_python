@@ -4,7 +4,7 @@
     "version": "0.1.0", 
     "command": "python", 
     "windows": {
-         "command": "C:\\Program Files\\Python 3.5\\python.exe"//python的安装路径
+         "command": "C:\\Python27\\python.exe"//python的安装路径
     },
     "args": ["${file}"]
 }
